@@ -12,3 +12,7 @@ uptempo music id
 ```lua
 6742516704
 ```
+uptempo music id 2
+```lua
+18841895741
+```
